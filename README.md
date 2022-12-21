@@ -7,4 +7,5 @@ Za pomocą języka PL/SQL stworzono:
   - procedury składowane
   - funkcje
   - wyzwalacze
+#
 Do tego użyto pętle, kursory, kolekcje i wyjątki.

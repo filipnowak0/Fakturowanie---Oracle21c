@@ -1,0 +1,11 @@
+#Instalacja
+Do poprawnego działania bazy zaleca się zaimportowania skryptów w następującej kolejności:
+  1. drop.sql - (opcjonalnie) w celu usunięcia przypadkowo zaimportowanych tabel
+  2. user.sql - z poziomu użytkownika SYS
+  3. create_table.sql
+  4. constraints.sql
+  5. create_sequence.sql
+  6. insert.sql
+  7. triggers.sql
+  8. procedures.sql
+  9. execute.sql
